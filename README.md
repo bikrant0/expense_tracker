@@ -30,7 +30,7 @@ python manage.py createsuperuser
 python manage.py runserver
 
 ### 6. Open in browser
-http://127.0.0.1:8000/register/
+http://127.0.0.1:8000/
 
 ## Testing the Application
 1. Go to /register/ and create an account
